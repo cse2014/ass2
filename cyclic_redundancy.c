@@ -47,3 +47,4 @@ int main()
         else            printf("\nNo error detected\n\n");
           return 0;   }
 
+//enter data: 1101
