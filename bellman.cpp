@@ -46,3 +46,8 @@ int main()
     printf("\n\n");
 }
 
+//Node - 3
+//matrix
+//0 2 7
+//2 0 1
+//7 1 0
